@@ -1,0 +1,18 @@
+Kindle
+  -using ssh tunnel information
+  -with a bash file give each program and feature a custom command
+  -create a menu
+  -restrict access to all except the programs
+  -programs
+    -btop(BashTop) -> a system resource viewer in the command line
+    -speedtest-cli -> a internet speed tester in the command line
+    -dust -> disk usage monitor inside the command line
+    -bat -> cat with syntax colouring
+    -custom
+      -a cypherer and decipherer for a to-be-made cypher 
+      -algorithm simulations with written out steps as they go
+        -Bubble sort
+        -Merge sort
+        -Heap sort
+        -Dijkstra
+        -A*
